@@ -1,3 +1,3 @@
 # Coursera
 
-Courses I have completed from Coursera
+Coursera courses I have completed
