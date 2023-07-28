@@ -1,5 +1,7 @@
 Completed AWS's [Practical Data Science with Amazon SageMaker](https://aws.amazon.com/training/classroom/practical-data-science-with-amazon-sagemaker/) to get this [Certificate](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=qGP9dVve9kGxP6D17cJbdw2)
 
+More example [notebooks](https://notebookinstance-lhclvayydpla.notebook.us-west-2.sagemaker.aws/tree#examples)
+
 Helpful SageMaker blogs and docs I got from the course:
 
 -[Use Amazon SageMaker Built-in Algorithms or Pre-trained Models
@@ -34,4 +36,6 @@ Next I plan to complete:
 
 -[AWS Certified Machine Learning - Specialty
 ](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+
+
 
