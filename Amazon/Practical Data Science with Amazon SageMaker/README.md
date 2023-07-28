@@ -2,6 +2,9 @@ Completed AWS's [Practical Data Science with Amazon SageMaker](https://aws.amazo
 
 Helpful SageMaker blogs and docs I got from the course:
 
+-[Use Amazon SageMaker Built-in Algorithms or Pre-trained Models
+](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+
 -[HyperparameterTuner Docs](https://sagemaker.readthedocs.io/en/stable/api/training/tuner.html)
 
 -[Best Practices for Hyperparameter Tuning
