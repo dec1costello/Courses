@@ -1,4 +1,4 @@
 # Amazon
 
-AWS Courses I have completed
+AWS courses I have completed
  
