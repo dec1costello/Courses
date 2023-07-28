@@ -1,6 +1,12 @@
 Completed AWS's [Practical Data Science with Amazon SageMaker](https://aws.amazon.com/training/classroom/practical-data-science-with-amazon-sagemaker/) to get this [Certificate](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=qGP9dVve9kGxP6D17cJbdw2)
 
-Helpful SageMaker blog's I got from the course:
+Helpful SageMaker blogs and docs I got from the course:
+
+[Best Practices for Hyperparameter Tuning
+](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-considerations.html)
+
+-[A/B Testing ML models in production using Amazon SageMaker
+](https://aws.amazon.com/blogs/machine-learning/a-b-testing-ml-models-in-production-using-amazon-sagemaker/)
 
 -[Model hosting patterns in Amazon SageMaker, Part 1: Common design patterns for building ML applications on Amazon SageMaker
 ](https://aws.amazon.com/blogs/machine-learning/model-hosting-patterns-in-amazon-sagemaker-part-1-common-design-patterns-for-building-ml-applications-on-amazon-sagemaker/)
