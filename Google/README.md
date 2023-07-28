@@ -1,3 +1,3 @@
 # Google
 
-GCP Courses I have completed
+GCP courses I have completed
