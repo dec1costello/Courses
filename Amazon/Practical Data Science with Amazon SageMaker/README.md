@@ -1,4 +1,4 @@
-Completed AWS's Practical Data Science with Amazon SageMaker to get this [certificate]https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=qGP9dVve9kGxP6D17cJbdw2)
+Completed AWS's Practical Data Science with Amazon SageMaker to get this [Certificate](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=qGP9dVve9kGxP6D17cJbdw2)
 
 Helpful SageMaker blog's I got from the course:
 
