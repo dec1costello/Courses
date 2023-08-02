@@ -1,3 +1,3 @@
-# Google
+# Kaggle
 
-GCP courses I have completed
+Kaggle courses I have completed
